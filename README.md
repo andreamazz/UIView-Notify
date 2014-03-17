@@ -1,6 +1,9 @@
 UIView-Notify
 =============
 
+_Please note_ 
+This library is no longer maintained.  
+
 UIView category for simple user notifications
 The message is displayed on the bottom of the parent view with a slide in/out effect
 
