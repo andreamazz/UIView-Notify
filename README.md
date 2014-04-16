@@ -26,4 +26,4 @@ Setup
 
 Screenshot
 --------------------
-![UIView+Notify](http://www.eflatgames.com/github/uiviewNotify.png)
+![UIView+Notify](https://raw.githubusercontent.com/andreamazz/UIView-Notify/master/screenshot.png)
